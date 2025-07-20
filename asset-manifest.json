@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Richagogde03/Login-Signup/static/css/main.f1d47e45.css",
+    "main.js": "/Richagogde03/Login-Signup/static/js/main.0c1f2a68.js",
+    "static/js/453.1046b0ad.chunk.js": "/Richagogde03/Login-Signup/static/js/453.1046b0ad.chunk.js",
+    "static/media/logo.svg": "/Richagogde03/Login-Signup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Richagogde03/Login-Signup/index.html",
+    "main.f1d47e45.css.map": "/Richagogde03/Login-Signup/static/css/main.f1d47e45.css.map",
+    "main.0c1f2a68.js.map": "/Richagogde03/Login-Signup/static/js/main.0c1f2a68.js.map",
+    "453.1046b0ad.chunk.js.map": "/Richagogde03/Login-Signup/static/js/453.1046b0ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d47e45.css",
+    "static/js/main.0c1f2a68.js"
+  ]
+}
